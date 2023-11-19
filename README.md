@@ -30,7 +30,9 @@ Per School Summary:
 Financial Diversity: School budgets vary, with Cabrera High School leading in % Overall Passing Rate (91.33%) and the highest budget per student at $582. Huang High School lags in academic performance despite a substantial budget, indicating potential areas for improvement.
 Academic Performance Variation: Cabrera High School leads in average math and reading scores, while Griffin High School, with a lower budget per student ($625), demonstrates high academic performance.
 Highest-Performing Schools: The top-performing schools by % Overall Passing Rate are Cabrera High School, Thomas High School, Griffin High School, Wilson High School, and Pena High School.
-Conclusions:
+
+
+Here are the 2 Conclusions from this dataset:
 
 Impact of School Size:
 Smaller schools consistently demonstrate higher average math and reading scores, along with superior passing rates. This suggests that smaller, more intimate learning environments positively influence academic outcomes through increased student engagement and a sense of community.
